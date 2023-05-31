@@ -4,5 +4,6 @@
         <page name='URLSession'/>
         <page name='Decode Data'/>
         <page name='Fetch Method'/>
+        <page name='Using Combine'/>
     </pages>
 </playground>
